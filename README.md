@@ -1,16 +1,13 @@
-# myapp
+# Teste Estágio Ribeirão
 
-A new Flutter project.
+Um projeto em flutter para a resulução dos testes para o estágio.
 
-## Getting Started
+## Recomendações
 
-This project is a starting point for a Flutter application.
+Recomendo importar esse projeto no Project IDX, pois é mais fácil a compilação e uso do projeto.
 
-A few resources to get you started if this is your first Flutter project:
+Link para o site:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Project IDX](https://idx.google.com/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
